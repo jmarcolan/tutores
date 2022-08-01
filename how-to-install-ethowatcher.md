@@ -11,6 +11,9 @@ To install EthoWatcher OS you will need to download the last EthoWatcher OS bina
 ### Download EthoWatcher OS
 Go to realease page and download the last version of EthoWatcher OS.
 
+![image](https://user-images.githubusercontent.com/9295313/164285706-d935c507-b4b6-46ca-a796-8b69f044e4dd.png)
+
+
 
 ### Donwload K-mega-codec-pack
 
@@ -20,6 +23,8 @@ In the release page in the assets section you will find the K-mega-code-pack ver
 ## Instaling
 
 After download the binaries, start o
+
+
 
 
 
