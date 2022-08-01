@@ -1,6 +1,6 @@
 ---
 title: How to install Ethowatcher OS.
-
+permalink: how-to-install-ethowatcher
 ---
 # How to install Ethowatcher OS.
 
