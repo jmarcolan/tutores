@@ -19,6 +19,8 @@ Go to realease page and download the last version of EthoWatcher OS.
 
 In the release page in the assets section you will find the K-mega-code-pack version current teste and used in the Ethowatcher Os. If you wanna test other version go to the official site. 
 
+##  New adicion
+
 
 ## Instaling
 
