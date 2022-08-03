@@ -25,10 +25,6 @@ In the release page in the assets section you will find the K-mega-code-pack ver
 After download the binaries, start o
 
 
-
-
-
-
 ## Every thing works proprely
 
 To test if the installationg works, register one user, and after go to the registrate a video file and start the register, if the video opens in this part every thing will work proplety.
